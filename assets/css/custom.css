@@ -1,0 +1,38 @@
+/* Add here all your css styles (customizations) */
+/* hours of operation */
+.boldDate {
+  font-size: 1.3rem;
+  font-weight: 700 !important;
+  color: #107ef4;
+}
+
+.happy {
+  font-weight: 700;
+  color: #107ef4;
+}
+
+
+
+
+.autoplay img {
+  max-height: 100px;
+  max-width: 100px;
+  margin-left: 100px;
+  
+} 
+
+.partsModal {
+  max-height: 100px;
+  max-width: 100px;
+  margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
